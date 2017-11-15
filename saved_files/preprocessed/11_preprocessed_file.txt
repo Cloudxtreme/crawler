@@ -1,0 +1,2602 @@
+
+                    <div class="product_row game first">
+            <div class="product_item row_num">
+                1101.
+            </div>
+            <div class="product_item product_score">
+                                    
+
+        
+<div class="metascore_w small game positive">79</div>
+
+                            </div>
+            <div class="product_item product_title">
+                <a href="/game/pc/the-sims-unleashed">
+                    The Sims: Unleashed
+                                    </a>
+            </div>
+                        
+                            <div class="product_item product_userscore_txt">
+                                                <span class="label">User:</span>
+    <span class="data textscore textscore_favorable">7.5</span>
+
+                                    </div>
+                                    <div class="product_item product_date">
+                                                                                                                        Sep 23, 2002
+            </div>
+        </div>
+                    <div class="product_row game">
+            <div class="product_item row_num">
+                1102.
+            </div>
+            <div class="product_item product_score">
+                                    
+
+        
+<div class="metascore_w small game positive">79</div>
+
+                            </div>
+            <div class="product_item product_title">
+                <a href="/game/pc/race-the-sun">
+                    Race the Sun
+                                    </a>
+            </div>
+                        
+                            <div class="product_item product_userscore_txt">
+                                                <span class="label">User:</span>
+    <span class="data textscore textscore_mixed">7.3</span>
+
+                                    </div>
+                                    <div class="product_item product_date">
+                                                                                                                        Aug 19, 2013
+            </div>
+        </div>
+                    <div class="product_row game">
+            <div class="product_item row_num">
+                1103.
+            </div>
+            <div class="product_item product_score">
+                                    
+
+        
+<div class="metascore_w small game positive">79</div>
+
+                            </div>
+            <div class="product_item product_title">
+                <a href="/game/pc/hitman---episode-3-marrakesh">
+                    Hitman - Episode 3: Marrakesh
+                                    </a>
+            </div>
+                        
+                            <div class="product_item product_userscore_txt">
+                                                <span class="label">User:</span>
+    <span class="data textscore textscore_mixed">5.6</span>
+
+                                    </div>
+                                    <div class="product_item product_date">
+                                                                                                                        May 31, 2016
+            </div>
+        </div>
+                    <div class="product_row game">
+            <div class="product_item row_num">
+                1104.
+            </div>
+            <div class="product_item product_score">
+                                    
+
+        
+<div class="metascore_w small game positive">79</div>
+
+                            </div>
+            <div class="product_item product_title">
+                <a href="/game/pc/the-sims-3-pets">
+                    The Sims 3: Pets
+                                    </a>
+            </div>
+                        
+                            <div class="product_item product_userscore_txt">
+                                                <span class="label">User:</span>
+    <span class="data textscore textscore_mixed">6.0</span>
+
+                                    </div>
+                                    <div class="product_item product_date">
+                                                                                                                        Oct 18, 2011
+            </div>
+        </div>
+                    <div class="product_row game">
+            <div class="product_item row_num">
+                1105.
+            </div>
+            <div class="product_item product_score">
+                                    
+
+        
+<div class="metascore_w small game positive">79</div>
+
+                            </div>
+            <div class="product_item product_title">
+                <a href="/game/pc/battle-chasers-nightwar">
+                    Battle Chasers: Nightwar
+                                    </a>
+            </div>
+                        
+                            <div class="product_item product_userscore_txt">
+                                                <span class="label">User:</span>
+    <span class="data textscore textscore_favorable">7.5</span>
+
+                                    </div>
+                                    <div class="product_item product_date">
+                                                                                                                        Oct 3, 2017
+            </div>
+        </div>
+                    <div class="product_row game">
+            <div class="product_item row_num">
+                1106.
+            </div>
+            <div class="product_item product_score">
+                                    
+
+        
+<div class="metascore_w small game positive">79</div>
+
+                            </div>
+            <div class="product_item product_title">
+                <a href="/game/pc/prototype">
+                    Prototype
+                                    </a>
+            </div>
+                        
+                            <div class="product_item product_userscore_txt">
+                                                <span class="label">User:</span>
+    <span class="data textscore textscore_favorable">7.8</span>
+
+                                    </div>
+                                    <div class="product_item product_date">
+                                                                                                                        Jun 10, 2009
+            </div>
+        </div>
+                    <div class="product_row game">
+            <div class="product_item row_num">
+                1107.
+            </div>
+            <div class="product_item product_score">
+                                    
+
+        
+<div class="metascore_w small game positive">79</div>
+
+                            </div>
+            <div class="product_item product_title">
+                <a href="/game/pc/stick-it-to-the-man!">
+                    Stick it to the Man!
+                                    </a>
+            </div>
+                        
+                            <div class="product_item product_userscore_txt">
+                                                <span class="label">User:</span>
+    <span class="data textscore textscore_mixed">7.2</span>
+
+                                    </div>
+                                    <div class="product_item product_date">
+                                                                                                                        Dec 13, 2013
+            </div>
+        </div>
+                    <div class="product_row game">
+            <div class="product_item row_num">
+                1108.
+            </div>
+            <div class="product_item product_score">
+                                    
+
+        
+<div class="metascore_w small game positive">79</div>
+
+                            </div>
+            <div class="product_item product_title">
+                <a href="/game/pc/street-fighter-x-tekken">
+                    Street Fighter X Tekken
+                                    </a>
+            </div>
+                        
+                            <div class="product_item product_userscore_txt">
+                                                <span class="label">User:</span>
+    <span class="data textscore textscore_mixed">6.4</span>
+
+                                    </div>
+                                    <div class="product_item product_date">
+                                                                                                                        May 11, 2012
+            </div>
+        </div>
+                    <div class="product_row game">
+            <div class="product_item row_num">
+                1109.
+            </div>
+            <div class="product_item product_score">
+                                    
+
+        
+<div class="metascore_w small game positive">79</div>
+
+                            </div>
+            <div class="product_item product_title">
+                <a href="/game/pc/frozen-cortex">
+                    Frozen Cortex
+                                    </a>
+            </div>
+                        
+                            <div class="product_item product_userscore_txt">
+                                                <span class="label">User:</span>
+    <span class="data textscore textscore_mixed">6.5</span>
+
+                                    </div>
+                                    <div class="product_item product_date">
+                                                                                                                        Feb 19, 2015
+            </div>
+        </div>
+                    <div class="product_row game">
+            <div class="product_item row_num">
+                1110.
+            </div>
+            <div class="product_item product_score">
+                                    
+
+        
+<div class="metascore_w small game positive">79</div>
+
+                            </div>
+            <div class="product_item product_title">
+                <a href="/game/pc/anarcute">
+                    Anarcute
+                                    </a>
+            </div>
+                        
+                            <div class="product_item product_userscore_txt">
+                                                <span class="label">User:</span>
+    <span class="data textscore textscore_favorable">7.5</span>
+
+                                    </div>
+                                    <div class="product_item product_date">
+                                                                                                                        Jul 12, 2016
+            </div>
+        </div>
+                    <div class="product_row game">
+            <div class="product_item row_num">
+                1111.
+            </div>
+            <div class="product_item product_score">
+                                    
+
+        
+<div class="metascore_w small game positive">79</div>
+
+                            </div>
+            <div class="product_item product_title">
+                <a href="/game/pc/free-realms">
+                    Free Realms
+                                    </a>
+            </div>
+                        
+                            <div class="product_item product_userscore_txt">
+                                                <span class="label">User:</span>
+    <span class="data textscore textscore_mixed">6.4</span>
+
+                                    </div>
+                                    <div class="product_item product_date">
+                                                                                                                        Apr 29, 2009
+            </div>
+        </div>
+                    <div class="product_row game">
+            <div class="product_item row_num">
+                1112.
+            </div>
+            <div class="product_item product_score">
+                                    
+
+        
+<div class="metascore_w small game positive">79</div>
+
+                            </div>
+            <div class="product_item product_title">
+                <a href="/game/pc/homeworld-deserts-of-kharak">
+                    Homeworld: Deserts of Kharak
+                                    </a>
+            </div>
+                        
+                            <div class="product_item product_userscore_txt">
+                                                <span class="label">User:</span>
+    <span class="data textscore textscore_favorable">8.0</span>
+
+                                    </div>
+                                    <div class="product_item product_date">
+                                                                                                                        Jan 20, 2016
+            </div>
+        </div>
+                    <div class="product_row game">
+            <div class="product_item row_num">
+                1113.
+            </div>
+            <div class="product_item product_score">
+                                    
+
+        
+<div class="metascore_w small game positive">79</div>
+
+                            </div>
+            <div class="product_item product_title">
+                <a href="/game/pc/dont-starve">
+                    Don&apos;t Starve
+                                    </a>
+            </div>
+                        
+                            <div class="product_item product_userscore_txt">
+                                                <span class="label">User:</span>
+    <span class="data textscore textscore_favorable">8.3</span>
+
+                                    </div>
+                                    <div class="product_item product_date">
+                                                                                                                        Apr 23, 2013
+            </div>
+        </div>
+                    <div class="product_row game">
+            <div class="product_item row_num">
+                1114.
+            </div>
+            <div class="product_item product_score">
+                                    
+
+        
+<div class="metascore_w small game positive">79</div>
+
+                            </div>
+            <div class="product_item product_title">
+                <a href="/game/pc/hue">
+                    Hue
+                                    </a>
+            </div>
+                        
+                            <div class="product_item product_userscore_txt">
+                                                <span class="label">User:</span>
+    <span class="data textscore textscore_favorable">7.6</span>
+
+                                    </div>
+                                    <div class="product_item product_date">
+                                                                                                                        Aug 30, 2016
+            </div>
+        </div>
+                    <div class="product_row game">
+            <div class="product_item row_num">
+                1115.
+            </div>
+            <div class="product_item product_score">
+                                    
+
+        
+<div class="metascore_w small game positive">79</div>
+
+                            </div>
+            <div class="product_item product_title">
+                <a href="/game/pc/assault-android-cactus">
+                    Assault Android Cactus
+                                    </a>
+            </div>
+                        
+                            <div class="product_item product_userscore_txt">
+                                                <span class="label">User:</span>
+    <span class="data textscore textscore_mixed">7.0</span>
+
+                                    </div>
+                                    <div class="product_item product_date">
+                                                                                                                        Sep 23, 2015
+            </div>
+        </div>
+                    <div class="product_row game">
+            <div class="product_item row_num">
+                1116.
+            </div>
+            <div class="product_item product_score">
+                                    
+
+        
+<div class="metascore_w small game positive">79</div>
+
+                            </div>
+            <div class="product_item product_title">
+                <a href="/game/pc/trainz">
+                    Trainz
+                                    </a>
+            </div>
+                        
+                            <div class="product_item product_userscore_txt">
+                                                <span class="label">User:</span>
+    <span class="data textscore textscore_mixed">7.2</span>
+
+                                    </div>
+                                    <div class="product_item product_date">
+                                                                                                                        Feb 10, 2002
+            </div>
+        </div>
+                    <div class="product_row game">
+            <div class="product_item row_num">
+                1117.
+            </div>
+            <div class="product_item product_score">
+                                    
+
+        
+<div class="metascore_w small game positive">79</div>
+
+                            </div>
+            <div class="product_item product_title">
+                <a href="/game/pc/heat-signature">
+                    Heat Signature
+                                    </a>
+            </div>
+                        
+                            <div class="product_item product_userscore_txt">
+                                                <span class="label">User:</span>
+    <span class="data textscore textscore_favorable">8.3</span>
+
+                                    </div>
+                                    <div class="product_item product_date">
+                                                                                                                        Sep 21, 2017
+            </div>
+        </div>
+                    <div class="product_row game">
+            <div class="product_item row_num">
+                1118.
+            </div>
+            <div class="product_item product_score">
+                                    
+
+        
+<div class="metascore_w small game positive">79</div>
+
+                            </div>
+            <div class="product_item product_title">
+                <a href="/game/pc/chivalry-medieval-warfare">
+                    Chivalry: Medieval Warfare
+                                    </a>
+            </div>
+                        
+                            <div class="product_item product_userscore_txt">
+                                                <span class="label">User:</span>
+    <span class="data textscore textscore_favorable">7.8</span>
+
+                                    </div>
+                                    <div class="product_item product_date">
+                                                                                                                        Oct 16, 2012
+            </div>
+        </div>
+                    <div class="product_row game">
+            <div class="product_item row_num">
+                1119.
+            </div>
+            <div class="product_item product_score">
+                                    
+
+        
+<div class="metascore_w small game positive">79</div>
+
+                            </div>
+            <div class="product_item product_title">
+                <a href="/game/pc/overlord-ii">
+                    Overlord II
+                                    </a>
+            </div>
+                        
+                            <div class="product_item product_userscore_txt">
+                                                <span class="label">User:</span>
+    <span class="data textscore textscore_favorable">8.1</span>
+
+                                    </div>
+                                    <div class="product_item product_date">
+                                                                                                                        Jun 23, 2009
+            </div>
+        </div>
+                    <div class="product_row game">
+            <div class="product_item row_num">
+                1120.
+            </div>
+            <div class="product_item product_score">
+                                    
+
+        
+<div class="metascore_w small game positive">79</div>
+
+                            </div>
+            <div class="product_item product_title">
+                <a href="/game/pc/hearthstone-journey-to-ungoro">
+                    Hearthstone: Journey to Un&apos;Goro
+                                    </a>
+            </div>
+                        
+                            <div class="product_item product_userscore_txt">
+                                                <span class="label">User:</span>
+    <span class="data textscore textscore_mixed">5.0</span>
+
+                                    </div>
+                                    <div class="product_item product_date">
+                                                                                                                        Apr 6, 2017
+            </div>
+        </div>
+                    <div class="product_row game">
+            <div class="product_item row_num">
+                1121.
+            </div>
+            <div class="product_item product_score">
+                                    
+
+        
+<div class="metascore_w small game positive">79</div>
+
+                            </div>
+            <div class="product_item product_title">
+                <a href="/game/pc/fear-2-project-origin">
+                    F.E.A.R. 2: Project Origin
+                                    </a>
+            </div>
+                        
+                            <div class="product_item product_userscore_txt">
+                                                <span class="label">User:</span>
+    <span class="data textscore textscore_favorable">7.8</span>
+
+                                    </div>
+                                    <div class="product_item product_date">
+                                                                                                                        Feb 10, 2009
+            </div>
+        </div>
+                    <div class="product_row game">
+            <div class="product_item row_num">
+                1122.
+            </div>
+            <div class="product_item product_score">
+                                    
+
+        
+<div class="metascore_w small game positive">79</div>
+
+                            </div>
+            <div class="product_item product_title">
+                <a href="/game/pc/emergency-fire-response">
+                    Emergency Fire Response
+                                    </a>
+            </div>
+                        
+                            <div class="product_item product_userscore_txt">
+                                                <span class="label">User:</span>
+    <span class="data textscore textscore_tbd">tbd</span>
+
+                                    </div>
+                                    <div class="product_item product_date">
+                                                                                                                        Jul 30, 2003
+            </div>
+        </div>
+                    <div class="product_row game">
+            <div class="product_item row_num">
+                1123.
+            </div>
+            <div class="product_item product_score">
+                                    
+
+        
+<div class="metascore_w small game positive">79</div>
+
+                            </div>
+            <div class="product_item product_title">
+                <a href="/game/pc/the-metronomicon">
+                    The Metronomicon
+                                    </a>
+            </div>
+                        
+                            <div class="product_item product_userscore_txt">
+                                                <span class="label">User:</span>
+    <span class="data textscore textscore_mixed">7.1</span>
+
+                                    </div>
+                                    <div class="product_item product_date">
+                                                                                                                        Sep 1, 2016
+            </div>
+        </div>
+                    <div class="product_row game">
+            <div class="product_item row_num">
+                1124.
+            </div>
+            <div class="product_item product_score">
+                                    
+
+        
+<div class="metascore_w small game positive">79</div>
+
+                            </div>
+            <div class="product_item product_title">
+                <a href="/game/pc/tom-clancys-rainbow-six-siege">
+                    Tom Clancy&apos;s Rainbow Six Siege
+                                    </a>
+            </div>
+                        
+                            <div class="product_item product_userscore_txt">
+                                                <span class="label">User:</span>
+    <span class="data textscore textscore_mixed">7.1</span>
+
+                                    </div>
+                                    <div class="product_item product_date">
+                                                                                                                        Dec 1, 2015
+            </div>
+        </div>
+                    <div class="product_row game">
+            <div class="product_item row_num">
+                1125.
+            </div>
+            <div class="product_item product_score">
+                                    
+
+        
+<div class="metascore_w small game positive">79</div>
+
+                            </div>
+            <div class="product_item product_title">
+                <a href="/game/pc/the-settlers-7-paths-to-a-kingdom">
+                    The Settlers 7: Paths to a Kingdom
+                                    </a>
+            </div>
+                        
+                            <div class="product_item product_userscore_txt">
+                                                <span class="label">User:</span>
+    <span class="data textscore textscore_mixed">5.2</span>
+
+                                    </div>
+                                    <div class="product_item product_date">
+                                                                                                                        Mar 23, 2010
+            </div>
+        </div>
+                    <div class="product_row game">
+            <div class="product_item row_num">
+                1126.
+            </div>
+            <div class="product_item product_score">
+                                    
+
+        
+<div class="metascore_w small game positive">79</div>
+
+                            </div>
+            <div class="product_item product_title">
+                <a href="/game/pc/rollercoaster-tycoon-3-soaked!">
+                    RollerCoaster Tycoon 3: Soaked!
+                                    </a>
+            </div>
+                        
+                            <div class="product_item product_userscore_txt">
+                                                <span class="label">User:</span>
+    <span class="data textscore textscore_unfavorable">3.3</span>
+
+                                    </div>
+                                    <div class="product_item product_date">
+                                                                                                                        Jun 23, 2005
+            </div>
+        </div>
+                    <div class="product_row game">
+            <div class="product_item row_num">
+                1127.
+            </div>
+            <div class="product_item product_score">
+                                    
+
+        
+<div class="metascore_w small game positive">79</div>
+
+                            </div>
+            <div class="product_item product_title">
+                <a href="/game/pc/everspace">
+                    EVERSPACE
+                                    </a>
+            </div>
+                        
+                            <div class="product_item product_userscore_txt">
+                                                <span class="label">User:</span>
+    <span class="data textscore textscore_favorable">7.7</span>
+
+                                    </div>
+                                    <div class="product_item product_date">
+                                                                                                                        May 26, 2017
+            </div>
+        </div>
+                    <div class="product_row game">
+            <div class="product_item row_num">
+                1128.
+            </div>
+            <div class="product_item product_score">
+                                    
+
+        
+<div class="metascore_w small game positive">79</div>
+
+                            </div>
+            <div class="product_item product_title">
+                <a href="/game/pc/dark-souls-ii-crown-of-the-old-iron-king">
+                    Dark Souls II: Crown of the Old Iron King
+                                    </a>
+            </div>
+                        
+                            <div class="product_item product_userscore_txt">
+                                                <span class="label">User:</span>
+    <span class="data textscore textscore_favorable">7.6</span>
+
+                                    </div>
+                                    <div class="product_item product_date">
+                                                                                                                        Aug 26, 2014
+            </div>
+        </div>
+                    <div class="product_row game">
+            <div class="product_item row_num">
+                1129.
+            </div>
+            <div class="product_item product_score">
+                                    
+
+        
+<div class="metascore_w small game positive">79</div>
+
+                            </div>
+            <div class="product_item product_title">
+                <a href="/game/pc/trackmania-2-valley">
+                    TrackMania 2 Valley
+                                    </a>
+            </div>
+                        
+                            <div class="product_item product_userscore_txt">
+                                                <span class="label">User:</span>
+    <span class="data textscore textscore_favorable">8.1</span>
+
+                                    </div>
+                                    <div class="product_item product_date">
+                                                                                                                        Jul 4, 2013
+            </div>
+        </div>
+                    <div class="product_row game">
+            <div class="product_item row_num">
+                1130.
+            </div>
+            <div class="product_item product_score">
+                                    
+
+        
+<div class="metascore_w small game positive">79</div>
+
+                            </div>
+            <div class="product_item product_title">
+                <a href="/game/pc/state-of-decay">
+                    State of Decay
+                                    </a>
+            </div>
+                        
+                            <div class="product_item product_userscore_txt">
+                                                <span class="label">User:</span>
+    <span class="data textscore textscore_mixed">6.9</span>
+
+                                    </div>
+                                    <div class="product_item product_date">
+                                                                                                                        Nov 5, 2013
+            </div>
+        </div>
+                    <div class="product_row game">
+            <div class="product_item row_num">
+                1131.
+            </div>
+            <div class="product_item product_score">
+                                    
+
+        
+<div class="metascore_w small game positive">79</div>
+
+                            </div>
+            <div class="product_item product_title">
+                <a href="/game/pc/lego-harry-potter-years-1-4">
+                    LEGO Harry Potter: Years 1-4
+                                    </a>
+            </div>
+                        
+                            <div class="product_item product_userscore_txt">
+                                                <span class="label">User:</span>
+    <span class="data textscore textscore_favorable">7.7</span>
+
+                                    </div>
+                                    <div class="product_item product_date">
+                                                                                                                        Jun 29, 2010
+            </div>
+        </div>
+                    <div class="product_row game">
+            <div class="product_item row_num">
+                1132.
+            </div>
+            <div class="product_item product_score">
+                                    
+
+        
+<div class="metascore_w small game positive">79</div>
+
+                            </div>
+            <div class="product_item product_title">
+                <a href="/game/pc/rift-storm-legion">
+                    Rift: Storm Legion
+                                    </a>
+            </div>
+                        
+                            <div class="product_item product_userscore_txt">
+                                                <span class="label">User:</span>
+    <span class="data textscore textscore_favorable">7.8</span>
+
+                                    </div>
+                                    <div class="product_item product_date">
+                                                                                                                        Nov 13, 2012
+            </div>
+        </div>
+                    <div class="product_row game">
+            <div class="product_item row_num">
+                1133.
+            </div>
+            <div class="product_item product_score">
+                                    
+
+        
+<div class="metascore_w small game positive">79</div>
+
+                            </div>
+            <div class="product_item product_title">
+                <a href="/game/pc/crayon-physics-deluxe">
+                    Crayon Physics Deluxe
+                                    </a>
+            </div>
+                        
+                            <div class="product_item product_userscore_txt">
+                                                <span class="label">User:</span>
+    <span class="data textscore textscore_favorable">7.6</span>
+
+                                    </div>
+                                    <div class="product_item product_date">
+                                                                                                                        Jan 7, 2009
+            </div>
+        </div>
+                    <div class="product_row game">
+            <div class="product_item row_num">
+                1134.
+            </div>
+            <div class="product_item product_score">
+                                    
+
+        
+<div class="metascore_w small game positive">79</div>
+
+                            </div>
+            <div class="product_item product_title">
+                <a href="/game/pc/nancy-drew-legend-of-the-crystal-skull">
+                    Nancy Drew: Legend of the Crystal Skull
+                                    </a>
+            </div>
+                        
+                            <div class="product_item product_userscore_txt">
+                                                <span class="label">User:</span>
+    <span class="data textscore textscore_favorable">8.3</span>
+
+                                    </div>
+                                    <div class="product_item product_date">
+                                                                                                                        Oct 8, 2007
+            </div>
+        </div>
+                    <div class="product_row game">
+            <div class="product_item row_num">
+                1135.
+            </div>
+            <div class="product_item product_score">
+                                    
+
+        
+<div class="metascore_w small game positive">79</div>
+
+                            </div>
+            <div class="product_item product_title">
+                <a href="/game/pc/everquest-ii-desert-of-flames">
+                    EverQuest II: Desert of Flames
+                                    </a>
+            </div>
+                        
+                            <div class="product_item product_userscore_txt">
+                                                <span class="label">User:</span>
+    <span class="data textscore textscore_favorable">7.8</span>
+
+                                    </div>
+                                    <div class="product_item product_date">
+                                                                                                                        Sep 12, 2005
+            </div>
+        </div>
+                    <div class="product_row game">
+            <div class="product_item row_num">
+                1136.
+            </div>
+            <div class="product_item product_score">
+                                    
+
+        
+<div class="metascore_w small game positive">79</div>
+
+                            </div>
+            <div class="product_item product_title">
+                <a href="/game/pc/simcity-4-rush-hour">
+                    SimCity 4: Rush Hour
+                                    </a>
+            </div>
+                        
+                            <div class="product_item product_userscore_txt">
+                                                <span class="label">User:</span>
+    <span class="data textscore textscore_favorable">8.4</span>
+
+                                    </div>
+                                    <div class="product_item product_date">
+                                                                                                                        Sep 22, 2003
+            </div>
+        </div>
+                    <div class="product_row game">
+            <div class="product_item row_num">
+                1137.
+            </div>
+            <div class="product_item product_score">
+                                    
+
+        
+<div class="metascore_w small game positive">79</div>
+
+                            </div>
+            <div class="product_item product_title">
+                <a href="/game/pc/uncommon-valor-campaign-for-the-south-pacific">
+                    Uncommon Valor: Campaign for the South Pacific
+                                    </a>
+            </div>
+                        
+                            <div class="product_item product_userscore_txt">
+                                                <span class="label">User:</span>
+    <span class="data textscore textscore_favorable">7.6</span>
+
+                                    </div>
+                                    <div class="product_item product_date">
+                                                                                                                        Dec 2, 2002
+            </div>
+        </div>
+                    <div class="product_row game">
+            <div class="product_item row_num">
+                1138.
+            </div>
+            <div class="product_item product_score">
+                                    
+
+        
+<div class="metascore_w small game positive">79</div>
+
+                            </div>
+            <div class="product_item product_title">
+                <a href="/game/pc/global-operations">
+                    Global Operations
+                                    </a>
+            </div>
+                        
+                            <div class="product_item product_userscore_txt">
+                                                <span class="label">User:</span>
+    <span class="data textscore textscore_favorable">8.3</span>
+
+                                    </div>
+                                    <div class="product_item product_date">
+                                                                                                                        Mar 25, 2002
+            </div>
+        </div>
+                    <div class="product_row game">
+            <div class="product_item row_num">
+                1139.
+            </div>
+            <div class="product_item product_score">
+                                    
+
+        
+<div class="metascore_w small game positive">78</div>
+
+                            </div>
+            <div class="product_item product_title">
+                <a href="/game/pc/shadow-warrior-2">
+                    Shadow Warrior 2
+                                    </a>
+            </div>
+                        
+                            <div class="product_item product_userscore_txt">
+                                                <span class="label">User:</span>
+    <span class="data textscore textscore_favorable">8.2</span>
+
+                                    </div>
+                                    <div class="product_item product_date">
+                                                                                                                        Oct 13, 2016
+            </div>
+        </div>
+                    <div class="product_row game">
+            <div class="product_item row_num">
+                1140.
+            </div>
+            <div class="product_item product_score">
+                                    
+
+        
+<div class="metascore_w small game positive">78</div>
+
+                            </div>
+            <div class="product_item product_title">
+                <a href="/game/pc/apotheon">
+                    Apotheon
+                                    </a>
+            </div>
+                        
+                            <div class="product_item product_userscore_txt">
+                                                <span class="label">User:</span>
+    <span class="data textscore textscore_favorable">7.8</span>
+
+                                    </div>
+                                    <div class="product_item product_date">
+                                                                                                                        Feb 3, 2015
+            </div>
+        </div>
+                    <div class="product_row game">
+            <div class="product_item row_num">
+                1141.
+            </div>
+            <div class="product_item product_score">
+                                    
+
+        
+<div class="metascore_w small game positive">78</div>
+
+                            </div>
+            <div class="product_item product_title">
+                <a href="/game/pc/need-for-speed-most-wanted---a-criterion-game">
+                    Need for Speed: Most Wanted - A Criterion Game
+                                    </a>
+            </div>
+                        
+                            <div class="product_item product_userscore_txt">
+                                                <span class="label">User:</span>
+    <span class="data textscore textscore_unfavorable">4.4</span>
+
+                                    </div>
+                                    <div class="product_item product_date">
+                                                                                                                        Oct 30, 2012
+            </div>
+        </div>
+                    <div class="product_row game">
+            <div class="product_item row_num">
+                1142.
+            </div>
+            <div class="product_item product_score">
+                                    
+
+        
+<div class="metascore_w small game positive">78</div>
+
+                            </div>
+            <div class="product_item product_title">
+                <a href="/game/pc/star-wars-battlefront-ii">
+                    Star Wars: Battlefront II
+                                    </a>
+            </div>
+                        
+                            <div class="product_item product_userscore_txt">
+                                                <span class="label">User:</span>
+    <span class="data textscore textscore_favorable">8.9</span>
+
+                                    </div>
+                                    <div class="product_item product_date">
+                                                                                                                        Oct 31, 2005
+            </div>
+        </div>
+                    <div class="product_row game">
+            <div class="product_item row_num">
+                1143.
+            </div>
+            <div class="product_item product_score">
+                                    
+
+        
+<div class="metascore_w small game positive">78</div>
+
+                            </div>
+            <div class="product_item product_title">
+                <a href="/game/pc/the-walking-dead-season-two-episode-1---all-that-remains">
+                    The Walking Dead: Season Two Episode 1 - All That Remains
+                                    </a>
+            </div>
+                        
+                            <div class="product_item product_userscore_txt">
+                                                <span class="label">User:</span>
+    <span class="data textscore textscore_favorable">8.5</span>
+
+                                    </div>
+                                    <div class="product_item product_date">
+                                                                                                                        Dec 17, 2013
+            </div>
+        </div>
+                    <div class="product_row game">
+            <div class="product_item row_num">
+                1144.
+            </div>
+            <div class="product_item product_score">
+                                    
+
+        
+<div class="metascore_w small game positive">78</div>
+
+                            </div>
+            <div class="product_item product_title">
+                <a href="/game/pc/the-journey-down-chapter-two">
+                    The Journey Down: Chapter Two
+                                    </a>
+            </div>
+                        
+                            <div class="product_item product_userscore_txt">
+                                                <span class="label">User:</span>
+    <span class="data textscore textscore_mixed">7.1</span>
+
+                                    </div>
+                                    <div class="product_item product_date">
+                                                                                                                        Aug 25, 2014
+            </div>
+        </div>
+                    <div class="product_row game">
+            <div class="product_item row_num">
+                1145.
+            </div>
+            <div class="product_item product_score">
+                                    
+
+        
+<div class="metascore_w small game positive">78</div>
+
+                            </div>
+            <div class="product_item product_title">
+                <a href="/game/pc/star-trek-elite-force-ii">
+                    Star Trek: Elite Force II
+                                    </a>
+            </div>
+                        
+                            <div class="product_item product_userscore_txt">
+                                                <span class="label">User:</span>
+    <span class="data textscore textscore_favorable">7.6</span>
+
+                                    </div>
+                                    <div class="product_item product_date">
+                                                                                                                        Jun 25, 2003
+            </div>
+        </div>
+                    <div class="product_row game">
+            <div class="product_item row_num">
+                1146.
+            </div>
+            <div class="product_item product_score">
+                                    
+
+        
+<div class="metascore_w small game positive">78</div>
+
+                            </div>
+            <div class="product_item product_title">
+                <a href="/game/pc/the-lions-song">
+                    The Lion&apos;s Song
+                                    </a>
+            </div>
+                        
+                            <div class="product_item product_userscore_txt">
+                                                <span class="label">User:</span>
+    <span class="data textscore textscore_tbd">tbd</span>
+
+                                    </div>
+                                    <div class="product_item product_date">
+                                                                                                                        Jul 7, 2016
+            </div>
+        </div>
+                    <div class="product_row game">
+            <div class="product_item row_num">
+                1147.
+            </div>
+            <div class="product_item product_score">
+                                    
+
+        
+<div class="metascore_w small game positive">78</div>
+
+                            </div>
+            <div class="product_item product_title">
+                <a href="/game/pc/zumas-revenge!">
+                    Zuma&apos;s Revenge!
+                                    </a>
+            </div>
+                        
+                            <div class="product_item product_userscore_txt">
+                                                <span class="label">User:</span>
+    <span class="data textscore textscore_favorable">8.0</span>
+
+                                    </div>
+                                    <div class="product_item product_date">
+                                                                                                                        Sep 15, 2009
+            </div>
+        </div>
+                    <div class="product_row game">
+            <div class="product_item row_num">
+                1148.
+            </div>
+            <div class="product_item product_score">
+                                    
+
+        
+<div class="metascore_w small game positive">78</div>
+
+                            </div>
+            <div class="product_item product_title">
+                <a href="/game/pc/xanadu-next">
+                    Xanadu Next
+                                    </a>
+            </div>
+                        
+                            <div class="product_item product_userscore_txt">
+                                                <span class="label">User:</span>
+    <span class="data textscore textscore_favorable">7.7</span>
+
+                                    </div>
+                                    <div class="product_item product_date">
+                                                                                                                        Nov 3, 2016
+            </div>
+        </div>
+                    <div class="product_row game">
+            <div class="product_item row_num">
+                1149.
+            </div>
+            <div class="product_item product_score">
+                                    
+
+        
+<div class="metascore_w small game positive">78</div>
+
+                            </div>
+            <div class="product_item product_title">
+                <a href="/game/pc/obliteracers">
+                    Obliteracers
+                                    </a>
+            </div>
+                        
+                            <div class="product_item product_userscore_txt">
+                                                <span class="label">User:</span>
+    <span class="data textscore textscore_favorable">7.7</span>
+
+                                    </div>
+                                    <div class="product_item product_date">
+                                                                                                                        Feb 23, 2016
+            </div>
+        </div>
+                    <div class="product_row game">
+            <div class="product_item row_num">
+                1150.
+            </div>
+            <div class="product_item product_score">
+                                    
+
+        
+<div class="metascore_w small game positive">78</div>
+
+                            </div>
+            <div class="product_item product_title">
+                <a href="/game/pc/baldurs-gate-enhanced-edition">
+                    Baldur&apos;s Gate: Enhanced Edition
+                                    </a>
+            </div>
+                        
+                            <div class="product_item product_userscore_txt">
+                                                <span class="label">User:</span>
+    <span class="data textscore textscore_mixed">6.6</span>
+
+                                    </div>
+                                    <div class="product_item product_date">
+                                                                                                                        Nov 28, 2012
+            </div>
+        </div>
+                    <div class="product_row game">
+            <div class="product_item row_num">
+                1151.
+            </div>
+            <div class="product_item product_score">
+                                    
+
+        
+<div class="metascore_w small game positive">78</div>
+
+                            </div>
+            <div class="product_item product_title">
+                <a href="/game/pc/doom-3-resurrection-of-evil">
+                    Doom 3: Resurrection of Evil
+                                    </a>
+            </div>
+                        
+                            <div class="product_item product_userscore_txt">
+                                                <span class="label">User:</span>
+    <span class="data textscore textscore_mixed">6.2</span>
+
+                                    </div>
+                                    <div class="product_item product_date">
+                                                                                                                        Apr 4, 2005
+            </div>
+        </div>
+                    <div class="product_row game">
+            <div class="product_item row_num">
+                1152.
+            </div>
+            <div class="product_item product_score">
+                                    
+
+        
+<div class="metascore_w small game positive">78</div>
+
+                            </div>
+            <div class="product_item product_title">
+                <a href="/game/pc/lego-indiana-jones-the-original-adventures">
+                    LEGO Indiana Jones: The Original Adventures
+                                    </a>
+            </div>
+                        
+                            <div class="product_item product_userscore_txt">
+                                                <span class="label">User:</span>
+    <span class="data textscore textscore_favorable">7.6</span>
+
+                                    </div>
+                                    <div class="product_item product_date">
+                                                                                                                        Jun 3, 2008
+            </div>
+        </div>
+                    <div class="product_row game">
+            <div class="product_item row_num">
+                1153.
+            </div>
+            <div class="product_item product_score">
+                                    
+
+        
+<div class="metascore_w small game positive">78</div>
+
+                            </div>
+            <div class="product_item product_title">
+                <a href="/game/pc/deathsmiles">
+                    DeathSmiles
+                                    </a>
+            </div>
+                        
+                            <div class="product_item product_userscore_txt">
+                                                <span class="label">User:</span>
+    <span class="data textscore textscore_favorable">7.8</span>
+
+                                    </div>
+                                    <div class="product_item product_date">
+                                                                                                                        Mar 10, 2016
+            </div>
+        </div>
+                    <div class="product_row game">
+            <div class="product_item row_num">
+                1154.
+            </div>
+            <div class="product_item product_score">
+                                    
+
+        
+<div class="metascore_w small game positive">78</div>
+
+                            </div>
+            <div class="product_item product_title">
+                <a href="/game/pc/nascar-thunder-2004">
+                    NASCAR Thunder 2004
+                                    </a>
+            </div>
+                        
+                            <div class="product_item product_userscore_txt">
+                                                <span class="label">User:</span>
+    <span class="data textscore textscore_favorable">7.5</span>
+
+                                    </div>
+                                    <div class="product_item product_date">
+                                                                                                                        Sep 16, 2003
+            </div>
+        </div>
+                    <div class="product_row game">
+            <div class="product_item row_num">
+                1155.
+            </div>
+            <div class="product_item product_score">
+                                    
+
+        
+<div class="metascore_w small game positive">78</div>
+
+                            </div>
+            <div class="product_item product_title">
+                <a href="/game/pc/the-sims-4-city-living">
+                    The Sims 4: City Living
+                                    </a>
+            </div>
+                        
+                            <div class="product_item product_userscore_txt">
+                                                <span class="label">User:</span>
+    <span class="data textscore textscore_mixed">5.9</span>
+
+                                    </div>
+                                    <div class="product_item product_date">
+                                                                                                                        Nov 1, 2016
+            </div>
+        </div>
+                    <div class="product_row game">
+            <div class="product_item row_num">
+                1156.
+            </div>
+            <div class="product_item product_score">
+                                    
+
+        
+<div class="metascore_w small game positive">78</div>
+
+                            </div>
+            <div class="product_item product_title">
+                <a href="/game/pc/transformers-fall-of-cybertron">
+                    Transformers: Fall of Cybertron
+                                    </a>
+            </div>
+                        
+                            <div class="product_item product_userscore_txt">
+                                                <span class="label">User:</span>
+    <span class="data textscore textscore_favorable">7.9</span>
+
+                                    </div>
+                                    <div class="product_item product_date">
+                                                                                                                        Aug 20, 2012
+            </div>
+        </div>
+                    <div class="product_row game">
+            <div class="product_item row_num">
+                1157.
+            </div>
+            <div class="product_item product_score">
+                                    
+
+        
+<div class="metascore_w small game positive">78</div>
+
+                            </div>
+            <div class="product_item product_title">
+                <a href="/game/pc/vanquish">
+                    Vanquish
+                                    </a>
+            </div>
+                        
+                            <div class="product_item product_userscore_txt">
+                                                <span class="label">User:</span>
+    <span class="data textscore textscore_favorable">8.0</span>
+
+                                    </div>
+                                    <div class="product_item product_date">
+                                                                                                                        May 25, 2017
+            </div>
+        </div>
+                    <div class="product_row game">
+            <div class="product_item row_num">
+                1158.
+            </div>
+            <div class="product_item product_score">
+                                    
+
+        
+<div class="metascore_w small game positive">78</div>
+
+                            </div>
+            <div class="product_item product_title">
+                <a href="/game/pc/fifa-soccer-06">
+                    FIFA Soccer 06
+                                    </a>
+            </div>
+                        
+                            <div class="product_item product_userscore_txt">
+                                                <span class="label">User:</span>
+    <span class="data textscore textscore_mixed">6.7</span>
+
+                                    </div>
+                                    <div class="product_item product_date">
+                                                                                                                        Oct 4, 2005
+            </div>
+        </div>
+                    <div class="product_row game">
+            <div class="product_item row_num">
+                1159.
+            </div>
+            <div class="product_item product_score">
+                                    
+
+        
+<div class="metascore_w small game positive">78</div>
+
+                            </div>
+            <div class="product_item product_title">
+                <a href="/game/pc/stellaris">
+                    Stellaris
+                                    </a>
+            </div>
+                        
+                            <div class="product_item product_userscore_txt">
+                                                <span class="label">User:</span>
+    <span class="data textscore textscore_favorable">8.0</span>
+
+                                    </div>
+                                    <div class="product_item product_date">
+                                                                                                                        May 9, 2016
+            </div>
+        </div>
+                    <div class="product_row game">
+            <div class="product_item row_num">
+                1160.
+            </div>
+            <div class="product_item product_score">
+                                    
+
+        
+<div class="metascore_w small game positive">78</div>
+
+                            </div>
+            <div class="product_item product_title">
+                <a href="/game/pc/deadcore">
+                    DeadCore
+                                    </a>
+            </div>
+                        
+                            <div class="product_item product_userscore_txt">
+                                                <span class="label">User:</span>
+    <span class="data textscore textscore_mixed">6.8</span>
+
+                                    </div>
+                                    <div class="product_item product_date">
+                                                                                                                        Aug 13, 2013
+            </div>
+        </div>
+                    <div class="product_row game">
+            <div class="product_item row_num">
+                1161.
+            </div>
+            <div class="product_item product_score">
+                                    
+
+        
+<div class="metascore_w small game positive">78</div>
+
+                            </div>
+            <div class="product_item product_title">
+                <a href="/game/pc/the-walking-dead-season-two-episode-5---no-going-back">
+                    The Walking Dead: Season Two Episode 5 - No Going Back
+                                    </a>
+            </div>
+                        
+                            <div class="product_item product_userscore_txt">
+                                                <span class="label">User:</span>
+    <span class="data textscore textscore_favorable">8.5</span>
+
+                                    </div>
+                                    <div class="product_item product_date">
+                                                                                                                        Aug 26, 2014
+            </div>
+        </div>
+                    <div class="product_row game">
+            <div class="product_item row_num">
+                1162.
+            </div>
+            <div class="product_item product_score">
+                                    
+
+        
+<div class="metascore_w small game positive">78</div>
+
+                            </div>
+            <div class="product_item product_title">
+                <a href="/game/pc/neverwinter-nights-shadows-of-undrentide">
+                    Neverwinter Nights: Shadows of Undrentide
+                                    </a>
+            </div>
+                        
+                            <div class="product_item product_userscore_txt">
+                                                <span class="label">User:</span>
+    <span class="data textscore textscore_favorable">7.9</span>
+
+                                    </div>
+                                    <div class="product_item product_date">
+                                                                                                                        Jun 17, 2003
+            </div>
+        </div>
+                    <div class="product_row game">
+            <div class="product_item row_num">
+                1163.
+            </div>
+            <div class="product_item product_score">
+                                    
+
+        
+<div class="metascore_w small game positive">78</div>
+
+                            </div>
+            <div class="product_item product_title">
+                <a href="/game/pc/duke-nukem-manhattan-project">
+                    Duke Nukem: Manhattan Project
+                                    </a>
+            </div>
+                        
+                            <div class="product_item product_userscore_txt">
+                                                <span class="label">User:</span>
+    <span class="data textscore textscore_favorable">7.8</span>
+
+                                    </div>
+                                    <div class="product_item product_date">
+                                                                                                                        May 14, 2002
+            </div>
+        </div>
+                    <div class="product_row game">
+            <div class="product_item row_num">
+                1164.
+            </div>
+            <div class="product_item product_score">
+                                    
+
+        
+<div class="metascore_w small game positive">78</div>
+
+                            </div>
+            <div class="product_item product_title">
+                <a href="/game/pc/the-disney-afternoon-collection">
+                    The Disney Afternoon Collection
+                                    </a>
+            </div>
+                        
+                            <div class="product_item product_userscore_txt">
+                                                <span class="label">User:</span>
+    <span class="data textscore textscore_mixed">6.5</span>
+
+                                    </div>
+                                    <div class="product_item product_date">
+                                                                                                                        Apr 18, 2017
+            </div>
+        </div>
+                    <div class="product_row game">
+            <div class="product_item row_num">
+                1165.
+            </div>
+            <div class="product_item product_score">
+                                    
+
+        
+<div class="metascore_w small game positive">78</div>
+
+                            </div>
+            <div class="product_item product_title">
+                <a href="/game/pc/closure">
+                    Closure
+                                    </a>
+            </div>
+                        
+                            <div class="product_item product_userscore_txt">
+                                                <span class="label">User:</span>
+    <span class="data textscore textscore_mixed">6.6</span>
+
+                                    </div>
+                                    <div class="product_item product_date">
+                                                                                                                        Jan 1, 2009
+            </div>
+        </div>
+                    <div class="product_row game">
+            <div class="product_item row_num">
+                1166.
+            </div>
+            <div class="product_item product_score">
+                                    
+
+        
+<div class="metascore_w small game positive">78</div>
+
+                            </div>
+            <div class="product_item product_title">
+                <a href="/game/pc/dead-rising-2">
+                    Dead Rising 2
+                                    </a>
+            </div>
+                        
+                            <div class="product_item product_userscore_txt">
+                                                <span class="label">User:</span>
+    <span class="data textscore textscore_mixed">6.4</span>
+
+                                    </div>
+                                    <div class="product_item product_date">
+                                                                                                                        Sep 27, 2010
+            </div>
+        </div>
+                    <div class="product_row game">
+            <div class="product_item row_num">
+                1167.
+            </div>
+            <div class="product_item product_score">
+                                    
+
+        
+<div class="metascore_w small game positive">78</div>
+
+                            </div>
+            <div class="product_item product_title">
+                <a href="/game/pc/call-of-duty-advanced-warfare">
+                    Call of Duty: Advanced Warfare
+                                    </a>
+            </div>
+                        
+                            <div class="product_item product_userscore_txt">
+                                                <span class="label">User:</span>
+    <span class="data textscore textscore_unfavorable">4.6</span>
+
+                                    </div>
+                                    <div class="product_item product_date">
+                                                                                                                        Nov 3, 2014
+            </div>
+        </div>
+                    <div class="product_row game">
+            <div class="product_item row_num">
+                1168.
+            </div>
+            <div class="product_item product_score">
+                                    
+
+        
+<div class="metascore_w small game positive">78</div>
+
+                            </div>
+            <div class="product_item product_title">
+                <a href="/game/pc/teleglitch-die-more-edition">
+                    Teleglitch: Die More Edition
+                                    </a>
+            </div>
+                        
+                            <div class="product_item product_userscore_txt">
+                                                <span class="label">User:</span>
+    <span class="data textscore textscore_mixed">7.0</span>
+
+                                    </div>
+                                    <div class="product_item product_date">
+                                                                                                                        Jul 24, 2013
+            </div>
+        </div>
+                    <div class="product_row game">
+            <div class="product_item row_num">
+                1169.
+            </div>
+            <div class="product_item product_score">
+                                    
+
+        
+<div class="metascore_w small game positive">78</div>
+
+                            </div>
+            <div class="product_item product_title">
+                <a href="/game/pc/zero-escape-zero-time-dilemma">
+                    Zero Escape: Zero Time Dilemma
+                                    </a>
+            </div>
+                        
+                            <div class="product_item product_userscore_txt">
+                                                <span class="label">User:</span>
+    <span class="data textscore textscore_favorable">8.4</span>
+
+                                    </div>
+                                    <div class="product_item product_date">
+                                                                                                                        Jun 29, 2016
+            </div>
+        </div>
+                    <div class="product_row game">
+            <div class="product_item row_num">
+                1170.
+            </div>
+            <div class="product_item product_score">
+                                    
+
+        
+<div class="metascore_w small game positive">78</div>
+
+                            </div>
+            <div class="product_item product_title">
+                <a href="/game/pc/lego-marvel-super-heroes">
+                    LEGO Marvel Super Heroes
+                                    </a>
+            </div>
+                        
+                            <div class="product_item product_userscore_txt">
+                                                <span class="label">User:</span>
+    <span class="data textscore textscore_favorable">8.1</span>
+
+                                    </div>
+                                    <div class="product_item product_date">
+                                                                                                                        Oct 22, 2013
+            </div>
+        </div>
+                    <div class="product_row game">
+            <div class="product_item row_num">
+                1171.
+            </div>
+            <div class="product_item product_score">
+                                    
+
+        
+<div class="metascore_w small game positive">78</div>
+
+                            </div>
+            <div class="product_item product_title">
+                <a href="/game/pc/league-of-legends">
+                    League of Legends
+                                    </a>
+            </div>
+                        
+                            <div class="product_item product_userscore_txt">
+                                                <span class="label">User:</span>
+    <span class="data textscore textscore_mixed">5.5</span>
+
+                                    </div>
+                                    <div class="product_item product_date">
+                                                                                                                        Oct 27, 2009
+            </div>
+        </div>
+                    <div class="product_row game">
+            <div class="product_item row_num">
+                1172.
+            </div>
+            <div class="product_item product_score">
+                                    
+
+        
+<div class="metascore_w small game positive">78</div>
+
+                            </div>
+            <div class="product_item product_title">
+                <a href="/game/pc/the-movies-stunts-effects">
+                    The Movies: Stunts &amp; Effects
+                                    </a>
+            </div>
+                        
+                            <div class="product_item product_userscore_txt">
+                                                <span class="label">User:</span>
+    <span class="data textscore textscore_favorable">8.3</span>
+
+                                    </div>
+                                    <div class="product_item product_date">
+                                                                                                                        Jun 6, 2006
+            </div>
+        </div>
+                    <div class="product_row game">
+            <div class="product_item row_num">
+                1173.
+            </div>
+            <div class="product_item product_score">
+                                    
+
+        
+<div class="metascore_w small game positive">78</div>
+
+                            </div>
+            <div class="product_item product_title">
+                <a href="/game/pc/tropico-paradise-island">
+                    Tropico: Paradise Island
+                                    </a>
+            </div>
+                        
+                            <div class="product_item product_userscore_txt">
+                                                <span class="label">User:</span>
+    <span class="data textscore textscore_favorable">8.4</span>
+
+                                    </div>
+                                    <div class="product_item product_date">
+                                                                                                                        Feb 3, 2002
+            </div>
+        </div>
+                    <div class="product_row game">
+            <div class="product_item row_num">
+                1174.
+            </div>
+            <div class="product_item product_score">
+                                    
+
+        
+<div class="metascore_w small game positive">78</div>
+
+                            </div>
+            <div class="product_item product_title">
+                <a href="/game/pc/mechwarrior-4-black-knight-expansion">
+                    MechWarrior 4: Black Knight Expansion
+                                    </a>
+            </div>
+                        
+                            <div class="product_item product_userscore_txt">
+                                                <span class="label">User:</span>
+    <span class="data textscore textscore_favorable">8.0</span>
+
+                                    </div>
+                                    <div class="product_item product_date">
+                                                                                                                        Oct 31, 2001
+            </div>
+        </div>
+                    <div class="product_row game">
+            <div class="product_item row_num">
+                1175.
+            </div>
+            <div class="product_item product_score">
+                                    
+
+        
+<div class="metascore_w small game positive">78</div>
+
+                            </div>
+            <div class="product_item product_title">
+                <a href="/game/pc/observer">
+                    Observer
+                                    </a>
+            </div>
+                        
+                            <div class="product_item product_userscore_txt">
+                                                <span class="label">User:</span>
+    <span class="data textscore textscore_favorable">7.8</span>
+
+                                    </div>
+                                    <div class="product_item product_date">
+                                                                                                                        Aug 15, 2017
+            </div>
+        </div>
+                    <div class="product_row game">
+            <div class="product_item row_num">
+                1176.
+            </div>
+            <div class="product_item product_score">
+                                    
+
+        
+<div class="metascore_w small game positive">78</div>
+
+                            </div>
+            <div class="product_item product_title">
+                <a href="/game/pc/tom-clancys-rainbow-six-vegas-2">
+                    Tom Clancy&apos;s Rainbow Six: Vegas 2
+                                    </a>
+            </div>
+                        
+                            <div class="product_item product_userscore_txt">
+                                                <span class="label">User:</span>
+    <span class="data textscore textscore_mixed">7.3</span>
+
+                                    </div>
+                                    <div class="product_item product_date">
+                                                                                                                        Apr 15, 2008
+            </div>
+        </div>
+                    <div class="product_row game">
+            <div class="product_item row_num">
+                1177.
+            </div>
+            <div class="product_item product_score">
+                                    
+
+        
+<div class="metascore_w small game positive">78</div>
+
+                            </div>
+            <div class="product_item product_title">
+                <a href="/game/pc/puzzle-pirates">
+                    Puzzle Pirates
+                                    </a>
+            </div>
+                        
+                            <div class="product_item product_userscore_txt">
+                                                <span class="label">User:</span>
+    <span class="data textscore textscore_favorable">8.5</span>
+
+                                    </div>
+                                    <div class="product_item product_date">
+                                                                                                                        Dec 8, 2003
+            </div>
+        </div>
+                    <div class="product_row game">
+            <div class="product_item row_num">
+                1178.
+            </div>
+            <div class="product_item product_score">
+                                    
+
+        
+<div class="metascore_w small game positive">78</div>
+
+                            </div>
+            <div class="product_item product_title">
+                <a href="/game/pc/the-lord-of-the-rings-the-return-of-the-king">
+                    The Lord of the Rings: The Return of the King
+                                    </a>
+            </div>
+                        
+                            <div class="product_item product_userscore_txt">
+                                                <span class="label">User:</span>
+    <span class="data textscore textscore_favorable">7.8</span>
+
+                                    </div>
+                                    <div class="product_item product_date">
+                                                                                                                        Oct 31, 2003
+            </div>
+        </div>
+                    <div class="product_row game">
+            <div class="product_item row_num">
+                1179.
+            </div>
+            <div class="product_item product_score">
+                                    
+
+        
+<div class="metascore_w small game positive">78</div>
+
+                            </div>
+            <div class="product_item product_title">
+                <a href="/game/pc/star-trek-starfleet-command-orion-pirates">
+                    Star Trek Starfleet Command: Orion Pirates
+                                    </a>
+            </div>
+                        
+                            <div class="product_item product_userscore_txt">
+                                                <span class="label">User:</span>
+    <span class="data textscore textscore_favorable">7.6</span>
+
+                                    </div>
+                                    <div class="product_item product_date">
+                                                                                                                        Jul 1, 2001
+            </div>
+        </div>
+                    <div class="product_row game">
+            <div class="product_item row_num">
+                1180.
+            </div>
+            <div class="product_item product_score">
+                                    
+
+        
+<div class="metascore_w small game positive">78</div>
+
+                            </div>
+            <div class="product_item product_title">
+                <a href="/game/pc/two-worlds-ii-pirates-of-the-flying-fortress">
+                    Two Worlds II: Pirates of the Flying Fortress
+                                    </a>
+            </div>
+                        
+                            <div class="product_item product_userscore_txt">
+                                                <span class="label">User:</span>
+    <span class="data textscore textscore_favorable">7.5</span>
+
+                                    </div>
+                                    <div class="product_item product_date">
+                                                                                                                        Sep 30, 2011
+            </div>
+        </div>
+                    <div class="product_row game">
+            <div class="product_item row_num">
+                1181.
+            </div>
+            <div class="product_item product_score">
+                                    
+
+        
+<div class="metascore_w small game positive">78</div>
+
+                            </div>
+            <div class="product_item product_title">
+                <a href="/game/pc/devil-may-cry-4">
+                    Devil May Cry 4
+                                    </a>
+            </div>
+                        
+                            <div class="product_item product_userscore_txt">
+                                                <span class="label">User:</span>
+    <span class="data textscore textscore_favorable">8.5</span>
+
+                                    </div>
+                                    <div class="product_item product_date">
+                                                                                                                        Jul 8, 2008
+            </div>
+        </div>
+                    <div class="product_row game">
+            <div class="product_item row_num">
+                1182.
+            </div>
+            <div class="product_item product_score">
+                                    
+
+        
+<div class="metascore_w small game positive">78</div>
+
+                            </div>
+            <div class="product_item product_title">
+                <a href="/game/pc/praetorians">
+                    Praetorians
+                                    </a>
+            </div>
+                        
+                            <div class="product_item product_userscore_txt">
+                                                <span class="label">User:</span>
+    <span class="data textscore textscore_favorable">8.2</span>
+
+                                    </div>
+                                    <div class="product_item product_date">
+                                                                                                                        Mar 10, 2003
+            </div>
+        </div>
+                    <div class="product_row game">
+            <div class="product_item row_num">
+                1183.
+            </div>
+            <div class="product_item product_score">
+                                    
+
+        
+<div class="metascore_w small game positive">78</div>
+
+                            </div>
+            <div class="product_item product_title">
+                <a href="/game/pc/sniper-elite-4">
+                    Sniper Elite 4
+                                    </a>
+            </div>
+                        
+                            <div class="product_item product_userscore_txt">
+                                                <span class="label">User:</span>
+    <span class="data textscore textscore_mixed">7.0</span>
+
+                                    </div>
+                                    <div class="product_item product_date">
+                                                                                                                        Feb 14, 2017
+            </div>
+        </div>
+                    <div class="product_row game">
+            <div class="product_item row_num">
+                1184.
+            </div>
+            <div class="product_item product_score">
+                                    
+
+        
+<div class="metascore_w small game positive">78</div>
+
+                            </div>
+            <div class="product_item product_title">
+                <a href="/game/pc/chaos-on-deponia">
+                    Chaos on Deponia
+                                    </a>
+            </div>
+                        
+                            <div class="product_item product_userscore_txt">
+                                                <span class="label">User:</span>
+    <span class="data textscore textscore_favorable">8.3</span>
+
+                                    </div>
+                                    <div class="product_item product_date">
+                                                                                                                        Nov 6, 2012
+            </div>
+        </div>
+                    <div class="product_row game">
+            <div class="product_item row_num">
+                1185.
+            </div>
+            <div class="product_item product_score">
+                                    
+
+        
+<div class="metascore_w small game positive">78</div>
+
+                            </div>
+            <div class="product_item product_title">
+                <a href="/game/pc/that-dragon-cancer">
+                    That Dragon, Cancer
+                                    </a>
+            </div>
+                        
+                            <div class="product_item product_userscore_txt">
+                                                <span class="label">User:</span>
+    <span class="data textscore textscore_mixed">6.1</span>
+
+                                    </div>
+                                    <div class="product_item product_date">
+                                                                                                                        Jan 12, 2016
+            </div>
+        </div>
+                    <div class="product_row game">
+            <div class="product_item row_num">
+                1186.
+            </div>
+            <div class="product_item product_score">
+                                    
+
+        
+<div class="metascore_w small game positive">78</div>
+
+                            </div>
+            <div class="product_item product_title">
+                <a href="/game/pc/ken-folletts-the-pillars-of-the-earth">
+                    Ken Follett&apos;s The Pillars of the Earth
+                                    </a>
+            </div>
+                        
+                            <div class="product_item product_userscore_txt">
+                                                <span class="label">User:</span>
+    <span class="data textscore textscore_mixed">7.3</span>
+
+                                    </div>
+                                    <div class="product_item product_date">
+                                                                                                                        Aug 15, 2017
+            </div>
+        </div>
+                    <div class="product_row game">
+            <div class="product_item row_num">
+                1187.
+            </div>
+            <div class="product_item product_score">
+                                    
+
+        
+<div class="metascore_w small game positive">78</div>
+
+                            </div>
+            <div class="product_item product_title">
+                <a href="/game/pc/human-resource-machine">
+                    Human Resource Machine
+                                    </a>
+            </div>
+                        
+                            <div class="product_item product_userscore_txt">
+                                                <span class="label">User:</span>
+    <span class="data textscore textscore_favorable">8.1</span>
+
+                                    </div>
+                                    <div class="product_item product_date">
+                                                                                                                        Oct 15, 2015
+            </div>
+        </div>
+                    <div class="product_row game">
+            <div class="product_item row_num">
+                1188.
+            </div>
+            <div class="product_item product_score">
+                                    
+
+        
+<div class="metascore_w small game positive">78</div>
+
+                            </div>
+            <div class="product_item product_title">
+                <a href="/game/pc/lisa">
+                    LISA
+                                    </a>
+            </div>
+                        
+                            <div class="product_item product_userscore_txt">
+                                                <span class="label">User:</span>
+    <span class="data textscore textscore_favorable">8.6</span>
+
+                                    </div>
+                                    <div class="product_item product_date">
+                                                                                                                        Dec 15, 2014
+            </div>
+        </div>
+                    <div class="product_row game">
+            <div class="product_item row_num">
+                1189.
+            </div>
+            <div class="product_item product_score">
+                                    
+
+        
+<div class="metascore_w small game positive">78</div>
+
+                            </div>
+            <div class="product_item product_title">
+                <a href="/game/pc/olliolli">
+                    OlliOlli
+                                    </a>
+            </div>
+                        
+                            <div class="product_item product_userscore_txt">
+                                                <span class="label">User:</span>
+    <span class="data textscore textscore_mixed">6.7</span>
+
+                                    </div>
+                                    <div class="product_item product_date">
+                                                                                                                        Jul 22, 2014
+            </div>
+        </div>
+                    <div class="product_row game">
+            <div class="product_item row_num">
+                1190.
+            </div>
+            <div class="product_item product_score">
+                                    
+
+        
+<div class="metascore_w small game positive">78</div>
+
+                            </div>
+            <div class="product_item product_title">
+                <a href="/game/pc/strider">
+                    Strider
+                                    </a>
+            </div>
+                        
+                            <div class="product_item product_userscore_txt">
+                                                <span class="label">User:</span>
+    <span class="data textscore textscore_favorable">7.5</span>
+
+                                    </div>
+                                    <div class="product_item product_date">
+                                                                                                                        Feb 19, 2014
+            </div>
+        </div>
+                    <div class="product_row game">
+            <div class="product_item row_num">
+                1191.
+            </div>
+            <div class="product_item product_score">
+                                    
+
+        
+<div class="metascore_w small game positive">78</div>
+
+                            </div>
+            <div class="product_item product_title">
+                <a href="/game/pc/dead-space-3">
+                    Dead Space 3
+                                    </a>
+            </div>
+                        
+                            <div class="product_item product_userscore_txt">
+                                                <span class="label">User:</span>
+    <span class="data textscore textscore_mixed">6.1</span>
+
+                                    </div>
+                                    <div class="product_item product_date">
+                                                                                                                        Feb 5, 2013
+            </div>
+        </div>
+                    <div class="product_row game">
+            <div class="product_item row_num">
+                1192.
+            </div>
+            <div class="product_item product_score">
+                                    
+
+        
+<div class="metascore_w small game positive">78</div>
+
+                            </div>
+            <div class="product_item product_title">
+                <a href="/game/pc/condemned-criminal-origins">
+                    Condemned: Criminal Origins
+                                    </a>
+            </div>
+                        
+                            <div class="product_item product_userscore_txt">
+                                                <span class="label">User:</span>
+    <span class="data textscore textscore_favorable">7.9</span>
+
+                                    </div>
+                                    <div class="product_item product_date">
+                                                                                                                        Apr 11, 2006
+            </div>
+        </div>
+                    <div class="product_row game">
+            <div class="product_item row_num">
+                1193.
+            </div>
+            <div class="product_item product_score">
+                                    
+
+        
+<div class="metascore_w small game positive">78</div>
+
+                            </div>
+            <div class="product_item product_title">
+                <a href="/game/pc/mvp-baseball-2003">
+                    MVP Baseball 2003
+                                    </a>
+            </div>
+                        
+                            <div class="product_item product_userscore_txt">
+                                                <span class="label">User:</span>
+    <span class="data textscore textscore_favorable">8.0</span>
+
+                                    </div>
+                                    <div class="product_item product_date">
+                                                                                                                        Mar 24, 2003
+            </div>
+        </div>
+                    <div class="product_row game">
+            <div class="product_item row_num">
+                1194.
+            </div>
+            <div class="product_item product_score">
+                                    
+
+        
+<div class="metascore_w small game positive">78</div>
+
+                            </div>
+            <div class="product_item product_title">
+                <a href="/game/pc/midtown-madness-2">
+                    Midtown Madness 2
+                                    </a>
+            </div>
+                        
+                            <div class="product_item product_userscore_txt">
+                                                <span class="label">User:</span>
+    <span class="data textscore textscore_favorable">8.7</span>
+
+                                    </div>
+                                    <div class="product_item product_date">
+                                                                                                                        Sep 21, 2000
+            </div>
+        </div>
+                    <div class="product_row game">
+            <div class="product_item row_num">
+                1195.
+            </div>
+            <div class="product_item product_score">
+                                    
+
+        
+<div class="metascore_w small game positive">78</div>
+
+                            </div>
+            <div class="product_item product_title">
+                <a href="/game/pc/mushroom-11">
+                    Mushroom 11
+                                    </a>
+            </div>
+                        
+                            <div class="product_item product_userscore_txt">
+                                                <span class="label">User:</span>
+    <span class="data textscore textscore_mixed">7.2</span>
+
+                                    </div>
+                                    <div class="product_item product_date">
+                                                                                                                        Oct 15, 2015
+            </div>
+        </div>
+                    <div class="product_row game">
+            <div class="product_item row_num">
+                1196.
+            </div>
+            <div class="product_item product_score">
+                                    
+
+        
+<div class="metascore_w small game positive">78</div>
+
+                            </div>
+            <div class="product_item product_title">
+                <a href="/game/pc/tropico-4-modern-times">
+                    Tropico 4: Modern Times
+                                    </a>
+            </div>
+                        
+                            <div class="product_item product_userscore_txt">
+                                                <span class="label">User:</span>
+    <span class="data textscore textscore_favorable">8.0</span>
+
+                                    </div>
+                                    <div class="product_item product_date">
+                                                                                                                        Mar 29, 2012
+            </div>
+        </div>
+                    <div class="product_row game">
+            <div class="product_item row_num">
+                1197.
+            </div>
+            <div class="product_item product_score">
+                                    
+
+        
+<div class="metascore_w small game positive">78</div>
+
+                            </div>
+            <div class="product_item product_title">
+                <a href="/game/pc/madden-nfl-06">
+                    Madden NFL 06
+                                    </a>
+            </div>
+                        
+                            <div class="product_item product_userscore_txt">
+                                                <span class="label">User:</span>
+    <span class="data textscore textscore_mixed">6.8</span>
+
+                                    </div>
+                                    <div class="product_item product_date">
+                                                                                                                        Aug 17, 2005
+            </div>
+        </div>
+                    <div class="product_row game">
+            <div class="product_item row_num">
+                1198.
+            </div>
+            <div class="product_item product_score">
+                                    
+
+        
+<div class="metascore_w small game positive">78</div>
+
+                            </div>
+            <div class="product_item product_title">
+                <a href="/game/pc/hearts-of-iron-platinum">
+                    Hearts of Iron: Platinum
+                                    </a>
+            </div>
+                        
+                            <div class="product_item product_userscore_txt">
+                                                <span class="label">User:</span>
+    <span class="data textscore textscore_favorable">8.3</span>
+
+                                    </div>
+                                    <div class="product_item product_date">
+                                                                                                                        Sep 21, 2004
+            </div>
+        </div>
+                    <div class="product_row game">
+            <div class="product_item row_num">
+                1199.
+            </div>
+            <div class="product_item product_score">
+                                    
+
+        
+<div class="metascore_w small game positive">78</div>
+
+                            </div>
+            <div class="product_item product_title">
+                <a href="/game/pc/armed-and-dangerous">
+                    Armed and Dangerous
+                                    </a>
+            </div>
+                        
+                            <div class="product_item product_userscore_txt">
+                                                <span class="label">User:</span>
+    <span class="data textscore textscore_favorable">7.8</span>
+
+                                    </div>
+                                    <div class="product_item product_date">
+                                                                                                                        Dec 2, 2003
+            </div>
+        </div>
+                    <div class="product_row game last">
+            <div class="product_item row_num">
+                1200.
+            </div>
+            <div class="product_item product_score">
+                                    
+
+        
+<div class="metascore_w small game positive">78</div>
+
+                            </div>
+            <div class="product_item product_title">
+                <a href="/game/pc/star-trek-starfleet-command-iii">
+                    Star Trek: Starfleet Command III
+                                    </a>
+            </div>
+                        
+                            <div class="product_item product_userscore_txt">
+                                                <span class="label">User:</span>
+    <span class="data textscore textscore_favorable">7.5</span>
+
+                                    </div>
+                                    <div class="product_item product_date">
+                                                                                                                        Nov 6, 2002
+            </div>
+        </div>
+        
