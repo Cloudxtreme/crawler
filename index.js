@@ -20,7 +20,8 @@ const readFile = Observable.bindNodeCallback(fs.readFile);
 
 // Un-comment function, if you want to these functions.
 // crawlWholePage();
-// parsePage();
+parsePage();
+// getGameTitle();
 
 // Get whole page of metacritic's pc game high score page.
 function crawlWholePage() {
@@ -30,7 +31,7 @@ function crawlWholePage() {
   };
   Observable.interval(INTERVAL_TIME).take(END_PAGE_NUM).mergeMap(i => {
     options.uri = `${BASE_URL}${i}`;
-    return Observable.from(request(options)).mergeMap(body => writeFile(`${SAVE_FILE_PATH}/${i}_file.txt`, body).map(() => i, (err) => console.log(err)));
+    return Observable.from(request(options)).mergeMap(body => writeFile(`${SAVE_FILE_PATH}/${i}_file.html`, body).map(() => i, (err) => console.log(err)));
   }).subscribe(
     (i) => console.log(`====== COMPLETE TO CRAWL AND SAVE ${i} PAGE ======`),
     (i) => console.log(`====== ERROR PAGE ${i} ======`)
@@ -40,11 +41,11 @@ function crawlWholePage() {
 // Parse page of crawlWholePage's result. We can get html about list of game.
 function parsePage() {
   Observable.interval(INTERVAL_TIME).take(END_PAGE_NUM).mergeMap(i =>
-    readFile(`${SAVE_FILE_PATH}/${i}_file.txt`, 'utf-8')
+    readFile(`${SAVE_FILE_PATH}/${i}_file.html`, 'utf-8')
       .map(body => cheerio.load(body))
       .map($ => $('.product_rows').html())
       .mergeMap(html =>
-        writeFile(`${SAVE_FILE_PATH}/preprocessed/${i}_preprocessed_file.txt`, html).map(
+        writeFile(`${SAVE_FILE_PATH}/preprocessed/${i}_preprocessed_file.html`, html).map(
           () => i,
           (err) => {
             console.err(err);
@@ -55,4 +56,8 @@ function parsePage() {
     (i) => console.log(`====== COMPLETE TO CRAWL AND SAVE ${i} PAGE ======`),
     (i) => console.log(`====== ERROR PAGE ${i} ======`)
   );
+}
+
+function getGameTitle() {
+
 }
