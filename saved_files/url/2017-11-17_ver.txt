@@ -3597,7 +3597,6 @@ cities-xxl
 coast-guard
 star-wars-the-clone-wars-republic-heroes
 starship-troopers
-nightcry
 the-history-channel-great-battles-of-rome
 elite-warriors-vietnam
 beachhead-2000

@@ -10,6 +10,7 @@ require('rxjs/add/operator/mergeMap');
 require('rxjs/add/operator/map');
 require('rxjs/add/operator/take');
 require('rxjs/add/operator/do');
+require('rxjs/add/operator/toArray');
 
 const BASE_URL = `http://www.metacritic.com/browse/games/score/metascore/all/pc?sort=desc&page=`;
 const SAVE_FILE_PATH = `./saved_files`;
@@ -27,14 +28,13 @@ const appendFile = Observable.bindNodeCallback(fs.appendFile);
 // parsePage();
 // getGameTitle();
 // getGameUrl();
-getGameRatePage();
+// getGameDetail();
+// getUserGameRatePage();
+// getCriticGameRatePage();
 
 // Get whole page of metacritic's pc game high score page.
 function crawlWholePage() {
-  let options = {
-    method: 'GET',
-    headers: { 'User-Agent': 'grapgrap' }
-  };
+  let options = { method: 'GET', headers: { 'User-Agent': 'grapgrap' } };
   Observable.interval(INTERVAL_TIME).take(END_PAGE_NUM).mergeMap(i => {
     options.uri = `${BASE_URL}${i}`;
     return Observable.from(request(options))
@@ -42,7 +42,8 @@ function crawlWholePage() {
         .map(() => i, (err) => console.log(err)));
   }).subscribe(
     (i) => console.log(`====== COMPLETE TO CRAWL AND SAVE ${i} PAGE ======`),
-    (i) => console.log(`====== ERROR PAGE ${i} ======`)
+    (i) => console.log(`====== ERROR PAGE ${i} ======`),
+    () => console.log('====== FINISHED. ======')
   )
 }
 
@@ -69,6 +70,7 @@ function parsePage() {
   );
 }
 
+// get game title from preprocessed files.
 function getGameTitle() {
   const now = moment().format('YYYY-MM-DD');
   let count = 0;
@@ -91,6 +93,7 @@ function getGameTitle() {
   )
 }
 
+// get url from preprocessed files;
 function getGameUrl() {
   const now = moment().format('YYYY-MM-DD');
   let count = 0;
@@ -113,19 +116,73 @@ function getGameUrl() {
   )
 }
 
-function getGameRatePage() {
-  const now = moment().format('YYYY-MM-DD');
-  let count = 0;
-  let temp_url = '';
+function getGameDetail() {
+  const now = '2017-11-17';
   readFile(`${SAVE_FILE_PATH}/url/${now}_ver.txt`)
     .map(data => (data + '').split('\r\n'))
-    .mergeMap(list => Observable.interval(INTERVAL_TIME).take(list.length - 1).map(i => list[i + 3600]))
+    .mergeMap(list => Observable.interval(INTERVAL_TIME).take(list.length - 2).map(i => list[i]))
     .mergeMap(url => {
-      let options = { method: 'GET', uri: `http://www.metacritic.com/game/pc/${url}/user-reviews`, headers: { 'User-Agent': 'grapgrap' } };
+      let options = {
+        method: 'GET',
+        uri: `http://www.metacritic.com/game/pc/${url}/details`,
+        headers: { 'User-Agent': 'grapgrap' }
+      };
+      return Observable.from(request(options))
+        .map(body => cheerio.load(body))
+        .map($ => $('#main').html())
+        .mergeMap(html => writeFile(`${SAVE_FILE_PATH}/game_detail/${url}_file.html`, html))
+        .map(() => url, (err) => console.err(err))
+    })
+    .subscribe(
+      (url) => console.log(`====== COMPLETE TO CRAWL AND SAVE ${url} ITEM ======`),
+      null,
+      () => console.log('====== FINISHED. ======')
+    );
+}
+
+// get user game rate from user rate pages.
+function getUserGameRatePage() {
+  // const now = moment().format('YYYY-MM-DD');
+  const now = '2017-11-17';
+  readFile(`${SAVE_FILE_PATH}/url/${now}_ver.txt`)
+    .map(data => (data + '').split('\r\n'))
+    .mergeMap(list => Observable.interval(INTERVAL_TIME).take(list.length - 1).map(i => list[i]))
+    .mergeMap(url => {
+      let options = {
+        method: 'GET',
+        uri: `http://www.metacritic.com/game/pc/${url}/user-reviews`,
+        headers: { 'User-Agent': 'grapgrap' }
+      };
       return Observable.from(request(options))
         .map(body => cheerio.load(body))
         .map($ => $('.reviews.user_reviews').html())
-        .mergeMap(html => writeFile(`${SAVE_FILE_PATH}/preprocessed_review/${url}_file.html`, html))
+        .mergeMap(html => writeFile(`${SAVE_FILE_PATH}/preprocessed_user_review/${url}_file.html`, html))
+        .map(() => url, (err) => console.err(err))
+    })
+    .subscribe(
+      (url) => console.log(`====== COMPLETE TO CRAWL AND SAVE ${url} ITEM ======`),
+      null,
+      () => console.log('====== FINISHED. ======')
+    );
+}
+
+// get critic game rate from critic rate pages.
+function getCriticGameRatePage() {
+  // const now = moment().format('YYYY-MM-DD');
+  const now = '2017-11-17';
+  readFile(`${SAVE_FILE_PATH}/url/${now}_ver.txt`)
+    .map(data => (data + '').split('\r\n'))
+    .mergeMap(list => Observable.interval(INTERVAL_TIME).take(list.length - 1).map(i => list[i]))
+    .mergeMap(url => {
+      let options = {
+        method: 'GET',
+        uri: `http://www.metacritic.com/game/pc/${url}/critic-reviews`,
+        headers: { 'User-Agent': 'grapgrap' }
+      };
+      return Observable.from(request(options))
+        .map(body => cheerio.load(body))
+        .map($ => $('.reviews.critic_reviews').html())
+        .mergeMap(html => writeFile(`${SAVE_FILE_PATH}/preprocessed_critic_review/${url}_file.html`, html))
         .map(() => url, (err) => console.err(err))
     })
     .subscribe(
